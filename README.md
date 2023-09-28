@@ -1,5 +1,7 @@
 # Домашнее задание к лекции «Unit-тестирование». Задача №2
 
+[![Build status](https://ci.appveyor.com/api/projects/status/wowk40htp1lmrif5?svg=true)](https://ci.appveyor.com/project/AlexAdutov/test-ci2)
+
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
 **Важно**: ESLint не должен выдавать ошибок.
